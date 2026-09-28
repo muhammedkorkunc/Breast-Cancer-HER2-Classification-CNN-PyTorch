@@ -1,0 +1,11 @@
+*.pth
+*.pt
+runs/
+*.zip
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+watermark*.py
+sign_*.py
+.DS_Store
+.vscode/
